@@ -1,10 +1,5 @@
-print('Noman')
-
-# New Content
-This is the added content.Hi There! this is meHi There! this is me
-
-# New Content
-This is the added content.
-
-# New Content
-This is the added content.
+fruits = ["apple", "banana", "cherry"]
+for x in fruits:
+  if x == "cherry":
+    break
+  print(x) 
